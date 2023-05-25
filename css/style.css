@@ -45,4 +45,10 @@ top:500px;
 }
 
 .date .year {
-  font-size:5em;}
+  font-size:5em;
+color:white;}
+
+.date .dayOfWeel{
+  color:white;
+  Font-size:5em;
+}

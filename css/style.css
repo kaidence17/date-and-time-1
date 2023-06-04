@@ -39,7 +39,7 @@ top:200px;
   color:white;
 justify-content: center;
   align-content: center;
-  left:-500px;
+  left:-400px;
   position: relative;
  
 }
@@ -49,7 +49,7 @@ justify-content: center;
    padding:20px;
    color:white;
    position: relative;
-   left:-450px;
+   left:-350px;
 
 
 }
@@ -57,7 +57,7 @@ justify-content: center;
 .date .year {
   font-size:5em;
 color:white;
-left:-400px;
+left:-300px;
  
 position: relative;
 }
@@ -65,7 +65,7 @@ position: relative;
 .date .dayOfWeek{
   color:white;
   Font-size:5em;
-  left:-350px;
+  left:-250px;
   position: relative;
 }
 

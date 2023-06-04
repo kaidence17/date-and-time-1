@@ -41,6 +41,7 @@ justify-content: center;
   align-content: center;
   top:200px;
   left:-500px;
+  position: absolute;
  
 }
 
@@ -59,13 +60,14 @@ justify-content: center;
 color:white;
 left:-500px;
  
+position: absolute;
 }
 
 .date .dayOfWeek{
   color:white;
   Font-size:5em;
   left:-500px;
-
+  position: absolute;
 }
 
 .time .hours {

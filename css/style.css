@@ -32,6 +32,12 @@ top:200px;
  
 }
 
+date{
+  justify-content: center;
+  align-content: center;
+  top:200px;
+  left:-500px;
+}
 
 .date .month {
   font-size:5em;

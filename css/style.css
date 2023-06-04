@@ -36,21 +36,29 @@ top:200px;
   font-size:5em;
   padding:20px;
   color:white;
+  top:200px;
+  left:50px;
 }
 
 .date .dayOfMonth{
   font-size:5em;
    padding:20px;
    color:white;
+   top:200px;
+  left:50px;
 }
 
 .date .year {
   font-size:5em;
-color:white;}
+color:white;
+top:200px;
+  left:50px;}
 
 .date .dayOfWeek{
   color:white;
   Font-size:5em;
+  top:200px;
+  left:50px;
 }
 
 .time .hours {

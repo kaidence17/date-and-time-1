@@ -75,7 +75,7 @@ color:white;
 display: block;
   position: absolute;
 top:200px;
-  left:350px;
+  left:0px;
   width:1000px;
 }
 
@@ -85,17 +85,17 @@ top:200px;
   display: block;
   position: absolute;
 top:200px;
-  left:300px;
+  left:50px;
   width:1000px;
   }
 
 .time .seconds {
   
-  font-size:4em;
+  font-size:em;
   color:white;
   display: block;
   position: absolute;
 top:200px;
-  left:250px;
+  left:100px;
   width:1000px;
 }

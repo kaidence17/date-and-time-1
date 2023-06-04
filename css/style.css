@@ -70,7 +70,7 @@ position: relative;
 }
 
 .time .hours {
-font-size:2em;
+font-size:4em;
 color:white;
 display: block;
   position: absolute;
@@ -80,7 +80,7 @@ top:200px;
 }
 
 .time .minutes {
-  font-size:2em;
+  font-size:4em;
   color:white;
   display: block;
   position: absolute;
@@ -91,7 +91,7 @@ top:200px;
 
 .time .seconds {
   
-  font-size:2em;
+  font-size:4em;
   color:white;
   display: block;
   position: absolute;

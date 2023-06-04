@@ -59,7 +59,7 @@ color:white;}
   align-content: center;
   height: 100vh;
   top: -300px:
-
+bottom:-300px:
 }
 
 .time .minutes {
@@ -67,7 +67,9 @@ color:white;}
   justify-content: center;
   align-content: center;
   height: 100vh;
-   top: -300px:}
+   top: -300px:
+   bottom:-300px:
+  }
 
 .time .seconds {
   display: grid;
@@ -75,4 +77,6 @@ color:white;}
   align-content: center;
   height: 100vh;
   top: -300px:
+  bottom:-300px:
+
 }

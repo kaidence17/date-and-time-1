@@ -56,15 +56,30 @@ color:white;}
 .time .hours {
 font-size:2em;
 color:white;
+display: block;
+  position: absolute;
+top:200px;
+  left:400px;
+  width:1000px;
 }
 
 .time .minutes {
   font-size:2em;
   color:white;
+  display: block;
+  position: absolute;
+top:200px;
+  left:400px;
+  width:1000px;
   }
 
 .time .seconds {
   
   font-size:2em;
   color:white;
+  display: block;
+  position: absolute;
+top:200px;
+  left:400px;
+  width:1000px;
 }

@@ -39,6 +39,8 @@ top:200px;
   color:white;
   justify-content: center;
   align-content: center;
+  top:200px;
+  left:50px;
 }
 
 .date .dayOfMonth{
@@ -47,6 +49,8 @@ top:200px;
    color:white;
   justify-content: center;
   align-content: center;
+  top:200px;
+  left:50px;
 }
 
 .date .year {
@@ -54,6 +58,8 @@ top:200px;
 color:white;
   justify-content: center;
   align-content: center;
+  top:200px;
+  left:50px;
 }
 
 .date .dayOfWeek{
@@ -61,6 +67,8 @@ color:white;
   Font-size:5em;
   justify-content: center;
   align-content: center;
+  top:200px;
+  left:50px;
 }
 
 .time .hours {

@@ -37,6 +37,7 @@ date{
   align-content: center;
   top:200px;
   right:-500px;
+  left: -500px;
 }
 
 .date .month {

@@ -54,29 +54,17 @@ color:white;}
 }
 
 .time .hours {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  height: 100vh;
-  top: -300px:
-bottom:-300px:
+font-size:2em;
+color:white;
 }
 
 .time .minutes {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  height: 100vh;
-   top: -300px:
-   bottom:-300px:
+  font-size:2em;
+  color:white;
   }
 
 .time .seconds {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  height: 100vh;
-  top: -300px:
-  bottom:-300px:
-
+  
+  font-size:2em;
+  color:white;
 }

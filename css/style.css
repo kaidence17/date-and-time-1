@@ -58,6 +58,8 @@ color:white;}
   justify-content: center;
   align-content: center;
   height: 100vh;
+  top: -300px:
+
 }
 
 .time .minutes {
@@ -65,11 +67,12 @@ color:white;}
   justify-content: center;
   align-content: center;
   height: 100vh;
-}
+   top: -300px:}
 
 .time .seconds {
   display: grid;
   justify-content: center;
   align-content: center;
   height: 100vh;
+  top: -300px:
 }

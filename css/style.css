@@ -37,6 +37,9 @@ top:200px;
   font-size:5em;
   padding:20px;
   color:white;
+justify-content: center;
+  align-content: center;
+  top:200px;
   left:-500px;
  
 }
@@ -45,6 +48,7 @@ top:200px;
   font-size:5em;
    padding:20px;
    color:white;
+   left:-500px;
 
 
 }
@@ -52,12 +56,14 @@ top:200px;
 .date .year {
   font-size:5em;
 color:white;
+left:-500px;
  
 }
 
 .date .dayOfWeek{
   color:white;
   Font-size:5em;
+  left:-500px;
 
 }
 

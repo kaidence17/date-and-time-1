@@ -46,7 +46,7 @@ date{
   justify-content: center;
   align-content: center;
   top:200px;
-  left:-500px;
+  right:-500px;
 }
 
 .date .dayOfMonth{
@@ -56,7 +56,7 @@ date{
   justify-content: center;
   align-content: center;
   top:200px;
-  left:-500px;
+  right:-500px;
 }
 
 .date .year {
@@ -65,7 +65,7 @@ color:white;
   justify-content: center;
   align-content: center;
   top:200px;
-  left:-500px;
+  right:-500px;
 }
 
 .date .dayOfWeek{

@@ -32,6 +32,13 @@ top:200px;
  
 }
 
+date {
+  display: block;
+  position: absolute;
+  width:1000px;
+  left:50px;
+  right:-500px;
+}
 .date .month {
   font-size:5em;
   padding:20px;

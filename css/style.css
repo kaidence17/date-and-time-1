@@ -50,7 +50,7 @@ justify-content: center;
    padding:20px;
    color:white;
    position: absolute;
-   left:-500px;
+   left:-450px;
 
 
 }
@@ -58,7 +58,7 @@ justify-content: center;
 .date .year {
   font-size:5em;
 color:white;
-left:-500px;
+left:-400px;
  
 position: absolute;
 }
@@ -66,7 +66,7 @@ position: absolute;
 .date .dayOfWeek{
   color:white;
   Font-size:5em;
-  left:-500px;
+  left:-350px;
   position: absolute;
 }
 

@@ -52,3 +52,24 @@ color:white;}
   color:white;
   Font-size:5em;
 }
+
+.time .hours {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
+.time .minutes {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
+.time .seconds {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
